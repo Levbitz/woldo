@@ -176,7 +176,7 @@ function App() {
     <p>vjdjkfdkjfdkj</p>
     <p>vjdjkfdkjfdkj</p>
     <p>vjdjkfdkjfdkj</p>
-    <p>vjdjkfdkjfdkj</p>
+
     
     </div>
   )
